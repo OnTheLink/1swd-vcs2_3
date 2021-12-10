@@ -11,3 +11,7 @@ chips
 cola
 bier
 water
+kalkoen
+pesto
+champagne
+tiramisu
